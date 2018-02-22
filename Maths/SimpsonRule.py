@@ -5,7 +5,7 @@ Numerical integration or quadrature for a smooth function f with known values at
 This method is the classical approch of suming 'Equally Spaced Abscissas' 
 
 method 2: 
-"Simpson Rule"
+"Simpson's Rule"
 
 '''
 
